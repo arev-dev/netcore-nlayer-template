@@ -1,0 +1,8 @@
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.RazorAssemblyInfo.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\obj\Debug\net7.0\ProjectPosts.UI.RazorAssemblyInfo.cs
